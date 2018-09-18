@@ -1,1 +1,1 @@
-# AutoSolar
+# AutoMax
